@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 <!DOCTYPE HTML>
 <!--
 	Directive by HTML5 UP
@@ -7,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>Directive by HTML5 UP</title>
+		<title>Pacific Waste Valet</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -19,24 +19,23 @@
 		<!-- Header -->
 			<div id="header">
 				<span class="logo icon fa-paper-plane-o"></span>
-				<h1>Hi. This is Directive.</h1>
-				<p>A responsive HTML5 + CSS3 site template designed by <a href="http://html5up.net">HTML5 UP</a>
+				<h1>Pacific Waste Valet</h1>
+				<p>Keeping multifamily home areas clean
 				<br />
-				and released for free under the <a href="http://html5up.net/license">Creative Commons license</a>.</p>
+				and trash removal simple.</p>
 			</div>
 
 		<!-- Main -->
 			<div id="main">
 
 				<header class="major container 75%">
-					<h2>We conduct experiments that
+					<h2>Trash from your door
 					<br />
-					may or may not seriously
+					straight to your dumpster.
 					<br />
-					break the universe</h2>
+					I'ts that simple.</h2>
 					<!--
-					<p>Tellus erat mauris ipsum fermentum<br />
-					etiam vivamus nunc nibh morbi.</p>
+					<p></p>
 					-->
 				</header>
 
@@ -228,11 +227,12 @@
 				<div class="container 75%">
 
 					<header class="major last">
-						<h2>Questions or comments?</h2>
+						<h2>Let us know you're interested
+						<br />
+						we'll be in touch soon. </h2>
 					</header>
 
-					<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor
-					orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
+					<p>Please let us know your name, property adress, and how many units, we'd love to meet with you.</p>
 
 					<form method="post" action="#">
 						<div class="row">
